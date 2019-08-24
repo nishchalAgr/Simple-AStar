@@ -11,10 +11,17 @@ The visualization and UI are made using Processing.
 ---- CONTROLS ----
 
 Arrow keys - move cursor
+
          w - toggle wall-building
+
          s - input starting node
+
          e - input ending node
+
          f - visualize f-scores (not finished)
+
          g - visualize g-scores
+
          h - visualize h-scores
+         
 
